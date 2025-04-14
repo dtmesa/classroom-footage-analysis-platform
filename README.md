@@ -29,7 +29,7 @@ A fine-tuned YOLO model is employed for object detection to identify students wi
 
 - In Notebook 2, you can rename the name of the output in the first line under the Report header: ("Test-Report.txt", "w")
 
-If the virtual environments are correctly set up and the required packages are installed, simply run the first notebook and then the second.
+If the virtual environments are correctly set up and the required packages are installed, simply run the first notebook and then the second. The first will generate output for the second and the second will generate a report for your viewing.
 
 ## Trained Models:
 
