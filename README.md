@@ -37,6 +37,6 @@ If the virtual environments are correctly set up and the required packages are i
 
 MVIT: https://drive.google.com/file/d/1cCxdr2G-RcjZtS1GcYhAtU2ca9awh3kY/view?usp=sharing
 
-YOLO12l (Not used): https://drive.google.com/file/d/1sEK5vXEjg28-sCi3iKX3Oy8pJKWSznz1/view?usp=sharing
+YOLO12l (Unused): https://drive.google.com/file/d/1sEK5vXEjg28-sCi3iKX3Oy8pJKWSznz1/view?usp=sharing
 
 YOLO12m: https://drive.google.com/file/d/1CvDQQuzAYlOzVYN7-rBpOlJXiaBh3OMU/view?usp=sharing
