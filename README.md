@@ -23,12 +23,18 @@ A fine-tuned YOLO model is employed for object detection to identify students wi
 
 ## Running the files
 
-In notebook 1,
+- In Notebook 1, set the variable 'vid_source' to the location of your video footage
+
+- In Notebook 1, ensure the file 'output_filename = "tracking_output.json"' is set to the same location as the file from Notebook 2 in the line 'with open("tracking_output.json", "r") as f:'
+
+- In Notebook 2, you can rename the name of the output in the first line under the Report header: ("Test-Report.txt", "w")
+
+If the virtual environments are correctly set up and the required packages are installed, simply run the first notebook and then the second.
 
 ## Trained Models:
 
 MVIT: https://drive.google.com/file/d/1cCxdr2G-RcjZtS1GcYhAtU2ca9awh3kY/view?usp=sharing
 
-YOLO12l: https://drive.google.com/file/d/1sEK5vXEjg28-sCi3iKX3Oy8pJKWSznz1/view?usp=sharing
+YOLO12l (Not used): https://drive.google.com/file/d/1sEK5vXEjg28-sCi3iKX3Oy8pJKWSznz1/view?usp=sharing
 
 YOLO12m: https://drive.google.com/file/d/1CvDQQuzAYlOzVYN7-rBpOlJXiaBh3OMU/view?usp=sharing
