@@ -23,6 +23,8 @@ A fine-tuned YOLO model is employed for object detection to identify students wi
 
 ## Running the files
 
+- The labels file is required for the trained MVIT model.
+
 - In Notebook 1, set the variable 'vid_source' to the location of your video footage
 
 - In Notebook 1, ensure the file 'output_filename = "tracking_output.json"' is set to the same location as the file from Notebook 2 in the line 'with open("tracking_output.json", "r") as f:'
