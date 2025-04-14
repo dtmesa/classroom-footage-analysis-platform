@@ -16,7 +16,9 @@ A fine-tuned YOLO model is employed for object detection to identify students wi
 # Requirements
 
 The notebook for step 1 (Tracking/YOLO) requires Python 3.13.
+
 The notebook for steps 2 & 3 (InsightFace & MViT) requires Python 3.12.
+
 Virtual environments should be created to account for the difference in requirements.
 
 # Running the files
