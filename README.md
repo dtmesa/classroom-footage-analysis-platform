@@ -25,7 +25,7 @@ A fine-tuned YOLO model is employed for object detection to identify students wi
 
 In notebook 1,
 
-# Trained Models:
+## Trained Models:
 
 MVIT: https://drive.google.com/file/d/1cCxdr2G-RcjZtS1GcYhAtU2ca9awh3kY/view?usp=sharing
 
