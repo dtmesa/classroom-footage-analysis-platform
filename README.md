@@ -40,3 +40,14 @@ MVIT: https://drive.google.com/file/d/1cCxdr2G-RcjZtS1GcYhAtU2ca9awh3kY/view?usp
 YOLO12l (Unused): https://drive.google.com/file/d/1sEK5vXEjg28-sCi3iKX3Oy8pJKWSznz1/view?usp=sharing
 
 YOLO12m: https://drive.google.com/file/d/1CvDQQuzAYlOzVYN7-rBpOlJXiaBh3OMU/view?usp=sharing
+
+## References
+
+Fan, H., Xiong, B., Mangalam, K., Li, Y., Yan, Z., Malik, J., & Feichtenhofer, C. (2021). Multiscale Vision Transformers. arXiv. https://arxiv.org/abs/2104.11227
+
+InsightFace. (n.d.). deepinsight/insightface. GitHub. https://github.com/deepinsight/insightface
+
+Tian, Y., Ye, Q., & Doermann, D. (2025). YOLOv12: Attention-Centric Real-Time Object Detectors. arXiv preprint arXiv:2502.12524. https://arxiv.org/abs/2502.12524
+
+Xu, Y., Li, B., Yuan, X., Yang, T., & Wang, G. (2022). HiEveTrack: Towards a benchmark for robust multi-object tracking in hierarchical human activities. arXiv. https://arxiv.org/abs/2206.14651
+
