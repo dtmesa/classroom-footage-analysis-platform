@@ -1,4 +1,6 @@
-# Classroom Footage Analysis Platform 🎥
+# Classroom Footage Analysis Platform
+
+<img width="2500" height="1666" alt="13_Spring25_Mesa" src="https://github.com/user-attachments/assets/0c0af4b6-327f-469c-aa92-1fdb1ade67a9" />
 
 Cameras are becoming more common in classrooms, especially with the rising demand for hybrid & remote options. The footage captured offers valuable data for instructors & researchers, helping them analyze and improve the classroom–from the subject matter, to the activities, and to the various other facets of the learning experience.
 
